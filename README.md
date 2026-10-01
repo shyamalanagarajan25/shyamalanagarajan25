@@ -4,7 +4,7 @@
 
 Hi, I'm **Shyamala Devi** 
 
-I am an aspiring **Data Analyst & Data Science professional**, currently building practical skills through hands-on projects and continuous learning.
+I am a **Data Analytics and Data Science** professional focused on developing practical, project-based expertise in data analysis, visualization, and data-driven problem-solving.
 
 ##  Technical Skills
 
