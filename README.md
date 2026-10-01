@@ -50,7 +50,7 @@ I am actively strengthening my analytical and problem-solving skills by working 
  🗄️ Developing data querying skills with **SQL**
  📑 Working with **Excel for Data Analysis**
  🤖 Learning **Machine Learning fundamentals**
- 🌱 Continuously learning through hands-on projects
+   🌱 Continuously learning through hands-on projects
 
 [![GitHub](https://img.shields.io/badge/GitHub-shyamalanagarajan25-181717?style=for-the-badge&logo=github)](https://github.com/shyamalanagarajan25)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shyamala%20Devi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shyamala-devi-96829b425)
