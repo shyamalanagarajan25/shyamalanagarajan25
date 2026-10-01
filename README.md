@@ -4,7 +4,7 @@
 
 Hi, I'm **Shyamala Devi** 
 
-I am a **Data Analytics and Data Science** professional focused on developing practical, project-based expertise in data analysis, visualization, and data-driven problem-solving.
+I am a **Data Analytics and Data Science** professional focused on developing practical, project-based expertise in data analysis, visualization and data-driven problem-solving.
 
 ##  Technical Skills
 
@@ -58,5 +58,6 @@ I am actively strengthening my analytical and problem-solving skills by working 
 I'm interested in connecting with professionals and exploring opportunities to grow in data and technology-focused roles.
 
 Learning • Building • Improving
+
 Thanks for visiting my GitHub profile
 
