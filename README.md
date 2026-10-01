@@ -7,19 +7,12 @@
 [![GitHub](https://img.shields.io/badge/GitHub-shyamalanagarajan25-181717?style=for-the-badge&logo=github)](https://github.com/shyamalanagarajan25)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shyamala%20Devi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shyamala-devi-96829b425)
 
-</div>
-
----
 
 ## About Me
 
-I am building my technical portfolio through hands-on projects and continuous learning, with a current focus on **Python, data-oriented skills, and practical application development**.
-
-My GitHub work currently includes a Python desktop application demonstrating GUI development, user-input validation, structured form workflows, and interface design.
+I am building my technical portfolio through hands-on projects and continuous learning, with a currently focus on **Python, data-oriented skills, and practical application development**.
 
 I enjoy turning concepts into practical projects and documenting my learning through GitHub.
-
----
 
 ## Technical Skills
 
@@ -83,34 +76,10 @@ Submission
 What I'm Working On
 Building practical Python projects
 Strengthening programming fundamentals
+Learning Excel, Power BI, SQL, ML, DL
 Developing data-oriented technical skills
 Improving project documentation
 Expanding my GitHub portfolio
-
-Professional Interests
-- Data Analysis
-- Data Science
-- Python Development
-- Data Visualization
-- GUI Application Development
-- Problem Solving
-- Business-oriented Data Projects
-GitHub Statistics
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shyamalanagarajan25&show_icons=true&hide_border=true&include_all_commits=true" alt="Shyamala's GitHub statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamalanagarajan25&layout=compact&hide_border=true" alt="Shyamala's most used GitHub languages" />
-
-</div>
-
-GitHub statistics are generated dynamically from public repository activity and may change as new projects and contributions are added.
-
-GitHub Activity
-<div align="center">
-
- 
-</div>
 
 I am actively building my GitHub portfolio and adding projects that demonstrate my progress in programming, application development, and data-focused technologies.
 Currently Learning
@@ -125,13 +94,7 @@ Connect With Me
 
 I'm interested in connecting with professionals and exploring opportunities to grow in data and technology-focused roles.
 
- 
- 
-</div>
-
-<div align="center">
 
 Learning • Building • Improving
-<sub>Thanks for visiting my GitHub profile.</sub>
-</div>
-```
+Thanks for visiting my GitHub profile
+
