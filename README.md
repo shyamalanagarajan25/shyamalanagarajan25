@@ -2,7 +2,7 @@
 
 # Hi, I'm Shyamala 👋
 
-### Aspiring Data Professional | Python Developer | Building Practical Projects
+### Data Professional | Python Developer | Building Practical Projects
 
 [![GitHub](https://img.shields.io/badge/GitHub-shyamalanagarajan25-181717?style=for-the-badge&logo=github)](https://github.com/shyamalanagarajan25)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shyamala%20Devi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shyamala-devi-96829b425)
@@ -19,11 +19,6 @@ I enjoy turning concepts into practical projects and documenting my learning thr
 ### Programming
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### Python GUI & Libraries
-
-![Tkinter](https://img.shields.io/badge/Tkinter-GUI-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pillow](https://img.shields.io/badge/Pillow-Image%20Processing-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### Development
 
@@ -90,7 +85,6 @@ My current learning journey is focused on strengthening skills relevant to:
 - Data Visualization
 - Practical project development
 Connect With Me
-<div align="center">
 
 I'm interested in connecting with professionals and exploring opportunities to grow in data and technology-focused roles.
 
